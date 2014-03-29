@@ -9,8 +9,8 @@ import java.util.Locale;
  */
 public class MyDropBox{
 
-    private final String APP_KEY = "hrc1hw02qu52uah";
-    private final String APP_SECRET = "p147dj4kvpnks7d";
+    private final String APP_KEY = "YOUR_APP_KEY";
+    private final String APP_SECRET = "YOUR_APP_SECRET";
     private DbxWebAuthNoRedirect webAuth;
     private String authorizeUrl;
     private DbxRequestConfig config;
